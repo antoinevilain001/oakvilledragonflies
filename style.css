@@ -1,6 +1,7 @@
 /* Add some extra styling for smooth scrolling */
 html {
     scroll-behavior: smooth;
+    background-color: #000000; /* Make it black if I scroll past the bottom */
 }
 section {
     padding: 50px 0;

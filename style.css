@@ -6,6 +6,18 @@ section {
     padding: 50px 0;
     min-height: 100vh;
 }
-#home { background-color: #f8f9fa; }
-#about { background-color: #e9ecef; }
-#contact { background-color: #f1f3f5; }
+.website-font {
+    font-family: "Mochiy Pop One";
+    font-weight: 400;
+}
+
+.navbar {
+    background-color: #000000 !important;  /* Black background */
+}
+
+#home { background-color: #242424; }
+#about { background-color: #000000; }
+#contact { background-color: #242424; }
+
+.blue-text { color: #00d9ff !important; }
+.navbar-brand { font-family: 'Sofia' !important; }
